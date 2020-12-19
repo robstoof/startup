@@ -1,1 +1,1 @@
-# startup.github.io
+https://robstoof.github.io/startup/
